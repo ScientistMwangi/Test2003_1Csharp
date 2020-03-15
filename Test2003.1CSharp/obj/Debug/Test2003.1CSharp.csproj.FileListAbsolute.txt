@@ -1,0 +1,7 @@
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\bin\Debug\Test2003.1CSharp.exe.config
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\bin\Debug\Test2003.1CSharp.exe
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\bin\Debug\Test2003.1CSharp.pdb
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\obj\Debug\Test2003.1CSharp.csprojAssemblyReference.cache
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\obj\Debug\Test2003.1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\obj\Debug\Test2003.1CSharp.exe
+C:\Users\The Scientist\source\repos\Test2003.1CSharp\Test2003.1CSharp\obj\Debug\Test2003.1CSharp.pdb
